@@ -4,6 +4,10 @@
 <p align="center">Play music across multiple Bluetooth speakers, Wi-Fi speakers, and supported phones in sync.</p>
 <p align="center"><a href="https://syncplay.in">Website</a> · <a href="https://github.com/prateek-upreti/syncplay-in/releases/latest">Download</a> · <a href="https://github.com/prateek-upreti/syncplay-in/issues">Report a problem</a></p>
 
+<p align="center">
+  <img src="assets/screenshots/admin.webp" alt="SyncPlay speaker synchronization and timing controls" width="100%">
+</p>
+
 ---
 
 ## What is SyncPlay?
@@ -81,9 +85,7 @@ For the best results:
 
 ## Screenshots and demos
 
-Product screenshots and short demonstrations will be added here.
-
-If you are evaluating SyncPlay for the first time, the release download is the quickest way to try it.
+More product screenshots and short demonstrations will be added here.
 
 ## Reporting a problem
 
