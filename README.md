@@ -4,9 +4,49 @@
 <p align="center">Play music across multiple Bluetooth speakers, Wi-Fi speakers, and supported phones in sync.</p>
 <p align="center"><a href="https://syncplay.in">Website</a> · <a href="https://github.com/prateek-upreti/syncplay-in/releases/latest">Download</a> · <a href="https://github.com/prateek-upreti/syncplay-in/issues">Report a problem</a></p>
 
+## SyncPlay in action
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prateek-upreti/syncplay-in/main/assets/screenshots/admin.webp" alt="SyncPlay speaker synchronization and timing controls" width="100%">
+  <img src="assets/screenshots/Home.png" alt="SyncPlay Home screen" width="100%">
 </p>
+
+<p align="center"><strong>Home — control music across connected speakers.</strong></p>
+
+<p align="center">
+  <img src="assets/screenshots/Room.png" alt="SyncPlay Room synchronization screen" width="100%">
+</p>
+
+<p align="center"><strong>Room — see connected speakers and synchronization timing.</strong></p>
+
+<p align="center">
+  <img src="assets/screenshots/admin.png" alt="SyncPlay Admin speakers screen" width="100%">
+</p>
+
+<p align="center"><strong>Admin — manage speakers, guests, music and system settings.</strong></p>
+
+<p align="center">
+  <img src="assets/screenshots/admin_system.png" alt="SyncPlay Admin system screen" width="100%">
+</p>
+
+<p align="center"><strong>System — monitor and manage SyncPlay system settings.</strong></p>
+
+<p align="center">
+  <img src="assets/screenshots/Library.png" alt="SyncPlay Library screen" width="100%">
+</p>
+
+<p align="center"><strong>Library — browse your music collection.</strong></p>
+
+<p align="center">
+  <img src="assets/screenshots/Search.png" alt="SyncPlay Search screen" width="100%">
+</p>
+
+<p align="center"><strong>Search — find music and play it through SyncPlay.</strong></p>
+
+<p align="center">
+  <img src="assets/screenshots/Concert.png" alt="SyncPlay Concert screen" width="100%">
+</p>
+
+<p align="center"><strong>Concert — experience synchronized multi-speaker playback.</strong></p>
 
 ---
 
@@ -82,10 +122,6 @@ For the best results:
 - Keep Wi-Fi devices on the same network when required.
 - Avoid weak or unstable wireless connections.
 - Keep participating devices within good wireless range.
-
-## Screenshots and demos
-
-More product screenshots and short demonstrations will be added here.
 
 ## Reporting a problem
 
