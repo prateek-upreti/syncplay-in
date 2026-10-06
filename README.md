@@ -19,6 +19,12 @@
 <p align="center"><strong>Room — see connected speakers and synchronization timing.</strong></p>
 
 <p align="center">
+  <img src="assets/screenshots/speakers.png" alt="SyncPlay speaker management screen" width="100%">
+</p>
+
+<p align="center"><strong>Speakers — manage connected speakers and speaker synchronization.</strong></p>
+
+<p align="center">
   <img src="assets/screenshots/admin.png" alt="SyncPlay Admin speakers screen" width="100%">
 </p>
 
