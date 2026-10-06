@@ -5,7 +5,7 @@
 <p align="center"><a href="https://syncplay.in">Website</a> · <a href="https://github.com/prateek-upreti/syncplay-in/releases/latest">Download</a> · <a href="https://github.com/prateek-upreti/syncplay-in/issues">Report a problem</a></p>
 
 <p align="center">
-  <img src="assets/screenshots/admin.webp" alt="SyncPlay speaker synchronization and timing controls" width="100%">
+  <img src="https://raw.githubusercontent.com/prateek-upreti/syncplay-in/main/assets/screenshots/admin.webp" alt="SyncPlay speaker synchronization and timing controls" width="100%">
 </p>
 
 ---
