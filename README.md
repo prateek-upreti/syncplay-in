@@ -1,189 +1,132 @@
 # SyncPlay
 
-<p align="center">
-  <strong>Turn any room into a synchronized sound system.</strong>
-</p>
-
-<p align="center">
-  Play the same music across multiple Bluetooth speakers, Wi-Fi speakers, and phones at the same time.
-</p>
-
-<p align="center">
-  <a href="https://syncplay.in">Website</a> ·
-  <a href="https://github.com/prateek-upreti/syncplay-in/releases">Download</a> ·
-  <a href="https://github.com/prateek-upreti/syncplay-in/issues">Report an Issue</a>
-</p>
+<p align="center"><strong>Turn multiple speakers into one synchronized sound system.</strong></p>
+<p align="center">Play music across multiple Bluetooth speakers, Wi-Fi speakers, and supported phones in sync.</p>
+<p align="center"><a href="https://syncplay.in">Website</a> · <a href="https://github.com/prateek-upreti/syncplay-in/releases/latest">Download</a> · <a href="https://github.com/prateek-upreti/syncplay-in/issues">Report a problem</a></p>
 
 ---
 
 ## What is SyncPlay?
 
-**SyncPlay** is a multi-speaker music playback application designed to turn a collection of ordinary devices into one coordinated sound system.
+SyncPlay is a Windows application for playing the same audio on multiple devices at the same time.
 
-Instead of playing music from only one speaker, SyncPlay lets you use multiple compatible audio devices together and keep playback synchronized.
+It is built for situations where one speaker is not enough. Connect supported Bluetooth or Wi-Fi speakers and other supported devices, then use SyncPlay to coordinate playback between them.
 
-You can combine:
+### Supported device types
 
-- 🔊 Bluetooth speakers
-- 📶 Wi-Fi speakers
-- 📱 Phones and other supported devices
+- Bluetooth speakers
+- Wi-Fi speakers
+- Phones and other supported devices
 
-The goal is simple: **one track, multiple speakers, synchronized playback.**
+Support can vary depending on the device, connection method, Windows version, and SyncPlay release.
 
-## Why SyncPlay?
+## What you can do with it
 
-Traditional audio setups can require dedicated multi-room hardware or complicated configurations.
+- Play the same music on several speakers
+- Use speakers in different rooms
+- Combine supported Bluetooth and Wi-Fi devices
+- Use supported phones as additional playback devices
+- Set up a larger sound system without buying a dedicated multi-room system
 
-SyncPlay is built around a simpler idea:
+## How it works
 
-> **Use the speakers and devices you already have.**
-
-This makes it useful for parties, events, demonstrations, homes, small venues, and situations where you want a larger sound experience without buying a complete multi-room speaker system.
-
-## Key Features
-
-### 🎵 Synchronized Playback
-Play music across multiple connected devices with coordinated playback.
-
-### 🔊 Multiple Speaker Support
-Use supported Bluetooth and Wi-Fi speakers together with phones and other supported playback devices.
-
-### 🌐 Network-Based Device Coordination
-Devices can communicate over a local network to coordinate playback.
-
-### 📱 Multi-Device Audio
-Turn multiple phones and speakers into a shared audio experience.
-
-### 🎉 Great for Groups and Events
-Useful for parties, social gatherings, events, demonstrations, and multi-room listening.
-
-### ⚡ Simple User Experience
-Designed so users can connect devices and start synchronized playback without needing specialized audio hardware.
-
-## How It Works
-
-At a high level:
-
-1. Install SyncPlay on the supported device.
-2. Connect the available speakers or playback devices.
-3. Place participating devices on the appropriate local network when required.
-4. Select the devices you want to use.
+1. Install SyncPlay on Windows.
+2. Connect the speakers or devices you want to use.
+3. Make sure network-connected devices can communicate with each other when required.
+4. Select the devices in SyncPlay.
 5. Start playback.
-6. SyncPlay coordinates playback across the participating devices.
 
-Actual behavior and supported combinations can depend on the current SyncPlay release and the hardware/network environment.
+SyncPlay coordinates playback between participating devices. The quality of synchronization depends on the hardware, network, and connection conditions.
 
-## Use Cases
+## Download
 
-**🏠 Home audio**  
-Fill multiple rooms with the same music.
+The current Windows installer is available from GitHub Releases.
 
-**🎉 Parties**  
-Create a wider sound experience using several available speakers.
+**[Download SyncPlay for Windows](https://github.com/prateek-upreti/syncplay-in/releases/latest)**
 
-**🎤 Events & demonstrations**  
-Coordinate multiple speakers or playback devices for a synchronized audio demo.
+The latest release includes the installer and its SHA-256 checksum.
 
-**🏢 Multi-room environments**  
-Use compatible devices across different areas of a building.
-
-**🧪 Testing & experimentation**  
-Explore synchronized playback across different consumer audio hardware.
-
-## Download SyncPlay
-
-The official Windows application is distributed through **GitHub Releases**.
-
-### Latest Release
-
-👉 **[Download the latest SyncPlay release](https://github.com/prateek-upreti/syncplay-in/releases/latest)**
-
-Download the Windows executable from the release assets and follow the installation instructions provided with that release.
-
-> **Important:** Always download SyncPlay from the official GitHub repository or the official SyncPlay website.
+> Download SyncPlay only from this repository or the official SyncPlay website.
 
 ## Installation
 
-1. Open the [latest release](https://github.com/prateek-upreti/syncplay-in/releases/latest).
-2. Download the available Windows executable.
-3. Run the installer/application.
-4. Follow the on-screen instructions.
-5. Launch SyncPlay and connect your supported playback devices.
+1. Open the latest release.
+2. Download the Windows installer.
+3. Run the installer on Windows.
+4. Start SyncPlay.
+5. Connect your supported speakers and devices.
+6. Start a synchronized playback session.
 
 ## Requirements
 
-Requirements can vary by release and hardware. In general, you should have:
+SyncPlay is currently distributed as a Windows application.
 
 - A supported Windows PC
-- Supported Bluetooth and/or Wi-Fi audio devices
-- A suitable local network for network-connected devices
-- Music/audio available through a supported playback workflow
+- Compatible Bluetooth and/or Wi-Fi audio devices
+- A stable local network when network communication is required
+- Reliable wireless connections between participating devices
 
-For best synchronization results, use a stable local network and keep participating devices within reliable wireless range.
+Actual compatibility depends on the hardware and the SyncPlay version you are using.
 
-## Important Notes
+## Synchronization
 
-Sync performance depends on the audio hardware, operating system, network quality, wireless interference, and device configuration.
+Wireless audio has limitations. Differences in hardware, Bluetooth behavior, Wi-Fi conditions, network traffic, and audio drivers can affect synchronization.
 
-Different speaker models and connection types may behave differently. SyncPlay does not remove limitations imposed by the underlying hardware or wireless environment.
+For the best results:
 
-## Screenshots & Demo
+- Use a stable local network.
+- Keep Wi-Fi devices on the same network when required.
+- Avoid weak or unstable wireless connections.
+- Keep participating devices within good wireless range.
 
-Screenshots and product demonstrations will be added here as the project documentation grows.
+## Screenshots and demos
 
-Recommended media for this section:
+Product screenshots and short demonstrations will be added here.
 
-- Main application interface
-- Device discovery / connection screen
-- Multi-speaker setup
-- Synchronized playback demonstration
-- Short GIF/video showing the experience
+If you are evaluating SyncPlay for the first time, the release download is the quickest way to try it.
 
-## Security & Downloads
+## Reporting a problem
 
-SyncPlay is distributed through official GitHub Releases.
-
-Before running any downloaded executable:
-
-- Verify that it came from the official SyncPlay repository.
-- Check the release version.
-- Avoid third-party re-uploads.
-
-## Feedback & Support
-
-Found a problem, compatibility issue, or have an idea?
-
-👉 **[Open an issue](https://github.com/prateek-upreti/syncplay-in/issues)**
+If something does not work as expected, [open an issue](https://github.com/prateek-upreti/syncplay-in/issues).
 
 Please include:
 
 - SyncPlay version
 - Windows version
-- Speaker/device models
-- Connection type (Bluetooth/Wi-Fi/phone)
+- Speaker/device model
+- Bluetooth or Wi-Fi connection type
+- What you expected to happen
+- What actually happened
 - Steps to reproduce the problem
-- Screenshots or logs when useful
+- Screenshot or error message, if available
 
-## Star the Project ⭐
+## Security
 
-If SyncPlay is useful to you, consider giving the repository a **⭐ Star**.
+SyncPlay releases are published through GitHub Releases.
 
-It helps other people discover the project and shows that there is real interest in synchronized multi-device audio.
+Before installing a copy from somewhere else, check that it came from the official SyncPlay repository. Do not rely on unofficial re-uploads.
 
-## Project Status
+For security-related reports, please contact the project maintainer through the official SyncPlay website rather than posting sensitive details publicly.
 
-SyncPlay is an actively developed product. Features, supported devices, and installation requirements may change as new releases are published.
+## Project status
 
-## Official Links
+SyncPlay is under active development. New releases may add features, change supported devices, or improve synchronization.
 
-- 🌐 **Website:** https://syncplay.in
-- 💻 **GitHub:** https://github.com/prateek-upreti/syncplay-in
-- 📦 **Releases:** https://github.com/prateek-upreti/syncplay-in/releases
-- 🐛 **Issues:** https://github.com/prateek-upreti/syncplay-in/issues
+The repository contains the product documentation and release information. The application itself is distributed as a Windows installer.
+
+## ⭐ Support SyncPlay
+
+If you try SyncPlay and find it useful, consider starring the repository.
+
+A star helps other people discover the project and lets us know that the project is useful to you.
+
+## Links
+
+- [SyncPlay website](https://syncplay.in)
+- [Latest release](https://github.com/prateek-upreti/syncplay-in/releases/latest)
+- [All releases](https://github.com/prateek-upreti/syncplay-in/releases)
+- [Issues and feedback](https://github.com/prateek-upreti/syncplay-in/issues)
 
 ---
 
-<p align="center">
-  <strong>SyncPlay</strong><br>
-  One track. Multiple speakers. Synchronized.
-</p>
+<p align="center"><strong>SyncPlay</strong><br>One track. Multiple speakers. In sync.</p>
