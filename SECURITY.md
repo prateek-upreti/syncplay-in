@@ -2,17 +2,17 @@
 
 ## Reporting a security issue
 
-Please do not publish sensitive security details in a public GitHub issue.
+Please do not publish security details in a public GitHub issue.
 
-If you believe you have found a security problem in SyncPlay, contact the maintainer through the official SyncPlay website and include:
+Email **support@syncplay.in** with the subject **Security** and include:
 
 - A short description of the issue
-- The affected SyncPlay version
+- The affected SyncPlay version (Admin → System)
 - Steps to reproduce it, if safe to share
-- Any relevant screenshots or logs
+- Any relevant screenshots or logs, with passwords, email addresses and other private details removed
 
-Please allow time for the issue to be reviewed before publicly disclosing technical details.
+We will reply as soon as we can. Please allow time for a fix before disclosing technical details publicly.
 
 ## Downloads
 
-Use the official SyncPlay repository or the official SyncPlay website to obtain releases. Avoid modified or re-uploaded installers from unknown sources.
+Get SyncPlay only from this repository's [Releases](https://github.com/prateek-upreti/syncplay-in/releases) or from [syncplay.in](https://syncplay.in). Every release lists the installer's SHA-256; check it with `Get-FileHash <file> -Algorithm SHA256` before running the installer. Do not use modified or re-uploaded installers from anywhere else.

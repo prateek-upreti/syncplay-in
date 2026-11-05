@@ -15,10 +15,10 @@ Describe what you expected SyncPlay to do.
 
 ## Environment
 
-- SyncPlay version:
+- SyncPlay version (Admin → System):
 - Windows version:
 - Speaker/device model:
-- Connection: Bluetooth / Wi-Fi / Phone
+- Connection: Bluetooth / Google Cast (Wi-Fi) / Phone
 
 ## Steps to reproduce
 
@@ -28,4 +28,4 @@ Describe what you expected SyncPlay to do.
 
 ## Additional information
 
-Add screenshots, error messages, or logs if they help explain the problem.
+Add screenshots, error messages, or logs if they help explain the problem. Remove anything private (names, email addresses, IP addresses) first. For security problems, do not post here; see SECURITY.md.

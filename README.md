@@ -1,176 +1,138 @@
-# SyncPlay
-
-<p align="center"><strong>Turn multiple speakers into one synchronized sound system.</strong></p>
-<p align="center">Play music across multiple Bluetooth speakers, Wi-Fi speakers, and supported phones in sync.</p>
-<p align="center"><a href="https://syncplay.in">Website</a> · <a href="https://github.com/prateek-upreti/syncplay-in/releases/latest">Download</a> · <a href="https://github.com/prateek-upreti/syncplay-in/issues">Report a problem</a></p>
-
-## SyncPlay in action
-
 <p align="center">
-  <img src="assets/screenshots/Home.png" alt="SyncPlay Home screen" width="100%">
+  <img src="assets/syncplay-logo.png" alt="SyncPlay logo" height="96">
 </p>
 
-<p align="center"><strong>Home — control music across connected speakers.</strong></p>
+<h1 align="center">SyncPlay</h1>
 
 <p align="center">
-  <img src="assets/screenshots/Room.png" alt="SyncPlay Room synchronization screen" width="100%">
+  <strong>One song on every speaker in your home, at the same time.</strong><br>
+  Bluetooth speakers, Google Cast speakers and phones you already own, playing as one sound system.<br>
+  Music, films and TV shows. For Windows 10 and 11.
 </p>
-
-<p align="center"><strong>Room — see connected speakers and synchronization timing.</strong></p>
 
 <p align="center">
-  <img src="assets/screenshots/speakers.png" alt="SyncPlay speaker management screen" width="100%">
+  <a href="https://github.com/prateek-upreti/syncplay-in/releases/latest"><strong>Download for Windows</strong></a> ·
+  <a href="https://syncplay.in">Website</a> ·
+  <a href="#screenshots">Screenshots</a> ·
+  <a href="https://github.com/prateek-upreti/syncplay-in/issues">Report a problem</a>
 </p>
-
-<p align="center"><strong>Speakers — manage connected speakers and speaker synchronization.</strong></p>
 
 <p align="center">
-  <img src="assets/screenshots/admin.png" alt="SyncPlay Admin speakers screen" width="100%">
+  <img src="assets/screenshots/02-room.png" alt="SyncPlay's Room screen: four speakers and two phones around the room, all playing in time" width="100%">
 </p>
 
-<p align="center"><strong>Admin — manage speakers, guests, music and system settings.</strong></p>
+## Why SyncPlay
 
-<p align="center">
-  <img src="assets/screenshots/admin_system.png" alt="SyncPlay Admin system screen" width="100%">
-</p>
+Windows can send sound to more than one speaker, but it cannot keep them together. Every speaker adds its own delay, so two speakers playing the same song sound like an echo.
 
-<p align="center"><strong>System — monitor and manage SyncPlay system settings.</strong></p>
+SyncPlay measures each speaker's delay and keeps every speaker in step while the music plays, with tiny speed corrections instead of skips. You hear one clean sound.
 
-<p align="center">
-  <img src="assets/screenshots/Library.png" alt="SyncPlay Library screen" width="100%">
-</p>
+## What you can do
 
-<p align="center"><strong>Library — browse your music collection.</strong></p>
+- **Play music on every speaker at once**: Bluetooth, wired and Google Cast speakers (such as Nest), from your own music library.
+- **Watch your own films and TV shows** on this PC with the sound on every speaker, voices in time with lips. Continue watching, seasons and episodes, subtitles and My List.
+- **Play from any app** (Windows 11): whatever the computer is playing, on every speaker.
+- **Turn a phone into a speaker**: scan a QR code and it plays in the phone's browser, with nothing to install.
+- **Let guests request songs**: people on your Wi-Fi search your library from their phones and ask for a song. Nothing plays until you say yes.
+- **Live Concert**: AI on your own PC splits a song into six parts (vocals, drums, bass, guitar, piano and the rest), and each speaker plays its own part.
+- **Line your speakers up** with the laptop's microphone, or by ear with a click test, and lock the result.
+- **Control the room from one place**: volume and pause for each speaker on the mixing desk, from the PC or from your phone once you sign in.
 
-<p align="center">
-  <img src="assets/screenshots/Search.png" alt="SyncPlay Search screen" width="100%">
-</p>
+## Screenshots
 
-<p align="center"><strong>Search — find music and play it through SyncPlay.</strong></p>
+<table>
+  <tr>
+    <td width="50%"><img src="assets/screenshots/01-home.png" alt="Home: what is playing, a guest's song request, and mixes"><br><sub><b>Home</b>: what is playing, guests' requests, Play from any app</sub></td>
+    <td width="50%"><img src="assets/screenshots/03-videos.png" alt="Videos: continue watching, films and TV shows"><br><sub><b>Videos</b>: your own films and TV shows</sub></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/04-watch.png" alt="Watching a film with the sound on four speakers"><br><sub><b>Watching</b>: the sound on every speaker</sub></td>
+    <td><img src="assets/screenshots/05-show.png" alt="A TV show with seasons and episodes"><br><sub><b>TV shows</b>: seasons, episodes, resume where you stopped</sub></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/06-library.png" alt="Library: songs, artists, albums, playlists and collections"><br><sub><b>Library</b>: songs, artists, albums, playlists</sub></td>
+    <td><img src="assets/screenshots/07-concert.png" alt="Live Concert: one song split into parts across the speakers"><br><sub><b>Live Concert</b>: one song, split across your speakers</sub></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/08-speakers.png" alt="Speaker timing: set the room by ear, sync test, room spread"><br><sub><b>Speaker timing</b>: by ear, sync test, room spread</sub></td>
+    <td><img src="assets/screenshots/09-admin.png" alt="Admin: the room at a glance and the mixing desk"><br><sub><b>Admin</b>: the room at a glance and the mixing desk</sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="assets/screenshots/Concert.png" alt="SyncPlay Concert screen" width="100%">
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="assets/screenshots/p1-guest.png" alt="A guest's phone: search and request a song" width="240"><br><sub><b>A guest's phone</b>: search, request, own volume</sub></td>
+    <td align="center" width="33%"><img src="assets/screenshots/p2-room.png" alt="The Room on a phone" width="240"><br><sub><b>The Room on a phone</b></sub></td>
+    <td align="center" width="33%"><img src="assets/screenshots/p3-videos.png" alt="Videos on a phone" width="240"><br><sub><b>Videos on a phone</b></sub></td>
+  </tr>
+</table>
 
-<p align="center"><strong>Concert — experience synchronized multi-speaker playback.</strong></p>
+<sub>Screenshots use made-up songs, films, speakers and names.</sub>
 
----
+## Download and install
 
-## What is SyncPlay?
+1. Download **`SyncPlay-Setup-<version>.exe`** from the [latest release](https://github.com/prateek-upreti/syncplay-in/releases/latest). Download SyncPlay only from this page or [syncplay.in](https://syncplay.in).
+2. Check the file (recommended). In PowerShell, in the folder you downloaded it to, run:
+   ```powershell
+   Get-FileHash .\SyncPlay-Setup-*.exe -Algorithm SHA256
+   ```
+   The result must match the SHA-256 in the release notes. If it does not, do not run the file, and tell us.
+3. Run the installer. It installs for your Windows user only and needs no administrator rights. The installer is not code-signed yet, so Windows SmartScreen may say "Windows protected your PC". If the SHA-256 matched, choose **More info**, then **Run anyway**.
+4. Start SyncPlay. If Windows asks, allow it on **private** networks, so phones and Cast speakers can reach it.
+5. In **Room**, press **Add a device** to add your speakers, then play something.
 
-SyncPlay is a Windows application for playing the same audio on multiple devices at the same time.
+**Updating:** run the new installer. Your speakers, timing and settings are kept.
 
-It is built for situations where one speaker is not enough. Connect supported Bluetooth or Wi-Fi speakers and other supported devices, then use SyncPlay to coordinate playback between them.
-
-### Supported device types
-
-- Bluetooth speakers
-- Wi-Fi speakers
-- Phones and other supported devices
-
-Support can vary depending on the device, connection method, Windows version, and SyncPlay release.
-
-## What you can do with it
-
-- Play the same music on several speakers
-- Use speakers in different rooms
-- Combine supported Bluetooth and Wi-Fi devices
-- Use supported phones as additional playback devices
-- Set up a larger sound system without buying a dedicated multi-room system
-
-## How it works
-
-1. Install SyncPlay on Windows.
-2. Connect the speakers or devices you want to use.
-3. Make sure network-connected devices can communicate with each other when required.
-4. Select the devices in SyncPlay.
-5. Start playback.
-
-SyncPlay coordinates playback between participating devices. The quality of synchronization depends on the hardware, network, and connection conditions.
-
-## Download
-
-The current Windows installer is available from GitHub Releases.
-
-**[Download SyncPlay for Windows](https://github.com/prateek-upreti/syncplay-in/releases/latest)**
-
-The latest release includes the installer and its SHA-256 checksum.
-
-> Download SyncPlay only from this repository or the official SyncPlay website.
-
-## Installation
-
-1. Open the latest release.
-2. Download the Windows installer.
-3. Run the installer on Windows.
-4. Start SyncPlay.
-5. Connect your supported speakers and devices.
-6. Start a synchronized playback session.
+**Uninstalling:** Windows **Settings → Apps → Installed apps → SyncPlay → Uninstall**.
 
 ## Requirements
 
-SyncPlay is currently distributed as a Windows application.
+- Windows 10 (version 1809 or later) or Windows 11, 64-bit. **Play from any app** needs Windows 11.
+- 4 GB of memory; 8 GB for Live Concert.
+- Bluetooth speakers paired in Windows. Most PCs can play to about four Bluetooth speakers at once; that is a limit of the Bluetooth radio.
+- Google Cast speakers and phones on the same Wi-Fi network as the PC.
+- Optional: a microphone, to measure speaker delays. Windows asks your permission first.
+- Optional: Live Concert needs a one-time download of about 2.5 GB. SyncPlay asks before downloading anything.
 
-- A supported Windows PC
-- Compatible Bluetooth and/or Wi-Fi audio devices
-- A stable local network when network communication is required
-- Reliable wireless connections between participating devices
+## Free and Pro
 
-Actual compatibility depends on the hardware and the SyncPlay version you are using.
+SyncPlay is free to download and free for ever on one speaker.
 
-## Synchronization
+| | Free | Pro |
+|---|:---:|:---:|
+| Speakers | 1, any kind | Up to 4 Bluetooth and any number of Google Cast |
+| Phones as speakers | – | Any number |
+| Live Concert | – | ✓ |
 
-Wireless audio has limitations. Differences in hardware, Bluetooth behavior, Wi-Fi conditions, network traffic, and audio drivers can affect synchronization.
+Music, films and TV shows, and guests' song requests are in both.
 
-For the best results:
+Pro is a subscription, bought on [syncplay.in](https://syncplay.in/buy):
 
-- Use a stable local network.
-- Keep Wi-Fi devices on the same network when required.
-- Avoid weak or unstable wireless connections.
-- Keep participating devices within good wireless range.
+- India: ₹49 a month or ₹399 a year
+- Other countries: US$2.99 a month or US$11 a year
 
-## Reporting a problem
+Every new account gets Pro free for 14 days, with no card. You can cancel any time; Pro stays on until the end of the period already paid for.
 
-If something does not work as expected, [open an issue](https://github.com/prateek-upreti/syncplay-in/issues).
+## Privacy and security
 
-Please include:
+- Your music, films and recordings stay on your computer. Playing needs no internet.
+- The microphone is used only to measure speaker delays, on your computer.
+- Guests' phones can only search, request songs and set their own volume. Speakers, timing and settings stay with the owner.
+- Pro checks its licence online from time to time. See the [privacy policy](https://syncplay.in/legal/privacy).
+- Protected (DRM) content stays protected. SyncPlay never bypasses it.
 
-- SyncPlay version
-- Windows version
-- Speaker/device model
-- Bluetooth or Wi-Fi connection type
-- What you expected to happen
-- What actually happened
-- Steps to reproduce the problem
-- Screenshot or error message, if available
+Found a security problem? Please do not open a public issue; see [SECURITY.md](SECURITY.md).
 
-## Security
+## Help
 
-SyncPlay releases are published through GitHub Releases.
+- **Problems and ideas:** [open an issue](https://github.com/prateek-upreti/syncplay-in/issues/new/choose). Please include the SyncPlay version (Admin → System), your Windows version and your speaker models.
+- **Email:** support@syncplay.in
+- More in [SUPPORT.md](SUPPORT.md).
 
-Before installing a copy from somewhere else, check that it came from the official SyncPlay repository. Do not rely on unofficial re-uploads.
+## About this repository
 
-For security-related reports, please contact the project maintainer through the official SyncPlay website rather than posting sensitive details publicly.
+This repository holds SyncPlay's releases, release notes and issue tracker. The app's source code is not published here. Terms of use: [syncplay.in/legal/terms](https://syncplay.in/legal/terms).
 
-## Project status
+If SyncPlay is useful to you, a star helps other people find it.
 
-SyncPlay is under active development. New releases may add features, change supported devices, or improve synchronization.
-
-The repository contains the product documentation and release information. The application itself is distributed as a Windows installer.
-
-## ⭐ Support SyncPlay
-
-If you try SyncPlay and find it useful, consider starring the repository.
-
-A star helps other people discover the project and lets us know that the project is useful to you.
-
-## Links
-
-- [SyncPlay website](https://syncplay.in)
-- [Latest release](https://github.com/prateek-upreti/syncplay-in/releases/latest)
-- [All releases](https://github.com/prateek-upreti/syncplay-in/releases)
-- [Issues and feedback](https://github.com/prateek-upreti/syncplay-in/issues)
-
----
-
-<p align="center"><strong>SyncPlay</strong><br>One track. Multiple speakers. In sync.</p>
+<sub>SyncPlay is not affiliated with Google, Microsoft or the open-source Syncplay project. Google Cast and Nest are trademarks of Google LLC. Bluetooth is a registered trademark of Bluetooth SIG, Inc. © 2026 SyncPlay.</sub>
